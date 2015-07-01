@@ -1,3 +1,4 @@
+// Código Modificado por @DMR
 // Math.random() devuelve número aleatorio entre 0 y 1.
 var numero = Math.random();
 
